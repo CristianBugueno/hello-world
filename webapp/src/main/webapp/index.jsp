@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning - Implementación con ansible - V1 </h1>
+   <h1> Thankyou, Happy Learning - Implementación con ansible - V2 </h1>
 
   
 </form>
