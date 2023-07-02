@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning - Implementacion Ansible, Docker, Jenkins y K8S- V2.1</h1>
+   <h1> Thankyou, Happy Learning - Implementacion Ansible, Docker, Jenkins y K8S- V2.2</h1>
 
   
 </form>
